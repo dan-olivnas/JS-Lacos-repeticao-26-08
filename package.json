@@ -1,0 +1,17 @@
+{
+  "name": "lacos-condicionais",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Exercícios de laços condicionais em JavaScript",
+  "main": "lacosrepeticao.js",
+  "scripts": {
+    "start": "node lacosrepeticao.js"
+  },
+  "keywords": [],
+  "author": "Dandara Nascimento",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^9.34.0",
+    "readline-sync": "^1.4.10"
+  }
+}
